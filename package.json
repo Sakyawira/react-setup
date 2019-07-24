@@ -8,7 +8,7 @@
     "build": "webpack -d && copy src\\index.html dist\\index.html && webpack-dev-server --content-base src/ --inline --hot",
     "build:prod": "webpack -p && copy src/index.html dist/index.html"
   },
-  "author": "Bryan",
+  "author": "Sakyawira",
   "license": "MIT",
   "dependencies": {
     "react": "^16.8.6",
